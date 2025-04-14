@@ -1,4 +1,4 @@
-# Walmart Sales Analysis
+# WALMART SALES ANALYSIS
 
 A data analysis project that leverages SQL to explore and analyze Walmart's sales data, focusing on product trends, sales performance, and customer behavior.
 
